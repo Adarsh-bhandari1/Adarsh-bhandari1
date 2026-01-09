@@ -6,8 +6,6 @@ I am a passionate **3rd-year B.Tech Computer Science student** with a deep love 
 - I’m currently working on building full-stack applications with Node.js.
 - I’m currently deep-diving into **AI/ML** to make my projects smarter.
 - I’m looking to collaborate on Open Source projects and innovative web tools.
-- Fun fact: I believe there is no problem that a good cup of coffee and a debugger can't solve.
-
 ---
 
 ### Featured Projects
