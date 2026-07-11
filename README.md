@@ -1,6 +1,6 @@
 # Adarsh Bhandari
 
-I am a passionate **3rd-year B.Tech Computer Science student** with a deep love for Software Engineering. I thrive on building scalable web applications and exploring the intersection of Full-Stack development and Artificial Intelligence.
+I am a passionate **4th-year B.Tech Computer Science student** with a deep love for Software Engineering. I thrive on building scalable web applications and exploring the intersection of Full-Stack development and Artificial Intelligence.
 
 ### What I'm up to:
 - I’m currently working on building full-stack applications with Node.js.
